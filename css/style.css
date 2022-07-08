@@ -8,4 +8,11 @@ body{
     margin: 0 auto;
 }
 
+h2 {
+    font-weight: bold;
+    background: #294c71;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 5px;
+}
 

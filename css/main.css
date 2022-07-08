@@ -2,21 +2,51 @@
     margin-top: 60px;
     background: black;
 }
-#primario {
+
+/*CONTEUDO PRIMÁRIO*/
+#conteudoPrimario {
     width: 270px;
-    background: blue;
+    background: #d3d3d3;
     float: right;
 }
 
-#secundario {
-    background: red;
+/*CONTEUDO SECUNDÁRIO*/
+#conteudoSecundario {
+    background: #d3d3d3;
     vertical-align: top;
     width: 270px;
     float: right;
+    margin: 0 5px 5px 0;
 }
 
-.lateral {
+/*CONTEUDO LATERAL*/
+
+.conteudoLateral {
     float: right;
     width: 180px;
-    background: yellow;
+    margin: 0 5px 5px 0;
+}
+
+.conteudoLateral ul {
+    background: #c98f9f;
+}
+
+.conteudoLateral li {
+    padding: 1em;
+    text-align: center;
+}
+
+.conteudoLateral li:last-child {
+    border-bottom: none;
+    padding: 1em;
+}
+
+.conteudoLateral a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.conteudoLateral li:hover, li:active {
+    background: #de003e;
 }

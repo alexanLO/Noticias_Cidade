@@ -32,7 +32,7 @@
     background: url(../img/divisor.png) no-repeat left center;
 }
 
-.primeiro a{
+.primeiro a {
     background: none;
 }
 
@@ -47,4 +47,3 @@ body.fotos #navBar a#fotos {
     background: #de003e;
     cursor: text;
 }
-
