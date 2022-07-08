@@ -1,0 +1,11 @@
+#containerFooter {
+    clear: both;
+    padding: 20px;
+    background: #294c71;
+}
+
+#footer {
+    width: 750px;
+    color: #fff;
+    margin: 0 auto;
+}

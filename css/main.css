@@ -1,0 +1,22 @@
+#main {
+    margin-top: 60px;
+    background: black;
+}
+#primario {
+    width: 270px;
+    background: blue;
+    float: right;
+}
+
+#secundario {
+    background: red;
+    vertical-align: top;
+    width: 270px;
+    float: right;
+}
+
+.lateral {
+    float: right;
+    width: 180px;
+    background: yellow;
+}
